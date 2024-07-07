@@ -1,0 +1,55 @@
+{
+  "name": "GADUGOYYALA MANIKANTA SAI KRISHNA",
+  "contact": {
+    "email": "mg6293@srmist.edu.in",
+    "phone": "9676958189",
+    "location": "Chennai, India"
+  },
+  "summary": "Motivated individual with a strong foundation in programming languages like Python, Java, and C++, complemented by hands-on experience with data analysis and visualization tools such as TensorFlow, PyTorch, and Tableau. Actively engaged in coding competitions and hackathons to enhance problem-solving skills. Beyond academics, I enjoy outdoor activities like walking and sports, as I am a nature-loving individual. With a passion for continuous learning and exploration of new technologies in AI and Data Science, I am eager to make meaningful contributions to any role upon graduation.",
+  "education": [
+    {
+      "institution": "Sri Chaitanya School",
+      "degree": "10th",
+      "field": "SSC",
+      "location": "Tapeswaram",
+      "duration": "Jun 2018 - Apr 2019",
+      "gpa": "10.0 GPA"
+    },
+    {
+      "institution": "Sri Chaitanya Junior College",
+      "degree": "12th",
+      "field": "SSC",
+      "location": "Vijayawada",
+      "duration": "Jun 2019 - Apr 2021",
+      "gpa": "957/1000"
+    },
+    {
+      "institution": "SRM University",
+      "degree": "B. Tech",
+      "field": "Artificial Intelligence and Machine Learning",
+      "location": "Chennai",
+      "duration": "Sep 2021 - Present",
+      "gpa": "9.35 GPA"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Zidio Development",
+      "position": "Data Science and Analytics Intern",
+      "role": "Data Analyst",
+      "duration": "Jan 2024 - Mar 2024",
+      "details": "Led an internship at Zidio Development achieving a stellar 95% accuracy in crafting an autonomous driving simulation platform using Google Colab. Spearheaded a groundbreaking project with a 15% performance boost in predictive precision for autonomous driving, surpassing industry benchmarks."
+    },
+    {
+      "company": "Salesforce",
+      "position": "Salesforce Developer",
+      "role": "Developer",
+      "duration": "Nov 2023 - Jan 2024",
+      "details": "Achieved excellence in Salesforce development during my internship, mastering core concepts such as Organizational Setup, Automation, Flows, Apex, and VS Code with a proficiency of 95%. Elevated skills in Lightning Web Components, API integration, and attained prestigious Super Badges- Apex Specialist, Process Automation Specialist, and Developer Super Set, completing 10 complex tasks, demonstrating adeptness in tackling intricate Salesforce challenges."
+    },
+    {
+      "company": "JPMorgan Chase&Co.",
+      "position": "Software Engineering",
+      "role": "Job Simulation",
+      "duration": "May 2024 - Jun 2024",
+      "details": "During the Software Engineering Job Simulation at JPMorgan Chase & Co., I interfaced with a real-time stock price data feed, ensuring accurate data retrieval. Utilizing proprietary frameworks, I developed scalable solutions that enhanced performance by 20%. I also
